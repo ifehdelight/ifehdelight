@@ -31,7 +31,19 @@ const delight = {
   funFact: "I don't just write code — I build experiences.",
 };
 ```
+## 💭 Engineering Philosophy
 
+```typescript
+const philosophy = {
+  principle1: "Simplicity over cleverness — readable code outlives clever code",
+  principle2: "Ship first, perfect later — done beats perfect every time",
+  principle3: "Understand the problem before touching the keyboard",
+  principle4: "Every bug is a lesson — never fix without understanding why",
+  principle5: "Build for people first, machines second",
+  principle6: "Consistency compounds — small progress daily beats big bursts",
+  belief: "Great software isn't just written, it's thought through",
+};
+```
 ---
 
 ## 🚀 What I Do @ Delight Softwares
