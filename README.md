@@ -24,7 +24,7 @@ const delight = {
   name: "Delight",
   role: "Software Developer & Founder",
   company: "Delight Softwares",
-  location: "Ibadan, Nigeria 🇳🇬",
+  location: "FUTA, Akure, Nigeria 🇳🇬",
   currentlyBuilding: "Delight Softwares — your go-to web solutions studio",
   currentlyLearning: ["TypeScript", "C", "Python", "SQL", "Go", "Rust"],
   blog: "https://siteversity.vercel.app",
