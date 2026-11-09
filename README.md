@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=200&section=header&text=ifehdelight&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Exploring%20AI%20%26%20ML&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=200&section=header&text=ifehdelight&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Exploring%20AI%20%26%20ML&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
 
-<br/>
-
-### Building software. Understanding systems. Exploring what's next.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+software%2C+one+idea+at+a+time.;Understanding+computer+science.;Exploring+Artificial+Intelligence.;Always+learning.+Always+building." alt="Typing SVG"/>
+</a>
 
 <br/>
 
@@ -31,13 +31,14 @@ Currently, I'm strengthening my programming foundations with Python while explor
 
 ---
 
-## Currently Exploring
+## Areas of Interest
 
-- Software Engineering and Computer Science fundamentals.
+- Software Engineering and Computer Science.
 - Modern web development and application architecture.
-- Python programming and its applications.
 - Artificial Intelligence and Machine Learning.
-- Deep Learning and AI Infrastructure.
+- Deep Learning.
+- AI Infrastructure.
+- Open Source Software.
 
 I'm particularly interested in understanding the engineering behind intelligent systems.
 
@@ -45,23 +46,43 @@ I'm particularly interested in understanding the engineering behind intelligent 
 
 ## Technologies & Tools
 
-### Languages
+**Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Frameworks & Technologies
+**Frameworks & Technologies**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-### Tools & Platforms
+**Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## Currently Learning
+
+My learning journey is focused on strengthening my engineering foundations.
+
+| Area | Current Focus |
+|:---|:---|
+| Python | Programming fundamentals and problem-solving |
+| Software Engineering | Computer science and application architecture |
+| AI & Machine Learning | Exploring the fundamentals |
+| Deep Learning | Long-term area of interest |
+| AI Infrastructure | Long-term area of interest |
 
 ---
 
@@ -70,7 +91,7 @@ I'm particularly interested in understanding the engineering behind intelligent 
 <div align="center">
 
 <a href="https://siteversity.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifehdelight&repo=siteversity&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ifehdelight&repo=siteversity&theme=tokyonight&hide_border=true" alt="Siteversity Repository"/>
 </a>
 
 </div>
@@ -81,38 +102,21 @@ A content-focused blogging platform inspired by modern digital publications.
 
 Built around the idea of making quality content accessible through a clean, modern reading experience.
 
-**[Visit Siteversity →](https://siteversity.vercel.app)**
-
----
-
-## Learning Journey
-
-I'm continuously expanding my understanding of software engineering.
-
-| Area | Focus |
-|---|---|
-| Software Engineering | Application architecture and problem-solving |
-| JavaScript | Programming and application development |
-| TypeScript | Type safety and scalable applications |
-| Python | Currently learning |
-| AI & Machine Learning | Exploring the foundations |
-| Deep Learning | Long-term area of interest |
-| AI Infrastructure | Long-term area of interest |
+**[Explore Siteversity →](https://siteversity.vercel.app)**
 
 ---
 
 ## Open Source
 
-I believe open source is an important part of software engineering.
+I believe open source is an important part of software engineering and technological advancement.
 
 I'm interested in:
 
-- Exploring open-source codebases.
+- Exploring and understanding existing codebases.
 - Learning from experienced developers.
-- Contributing to meaningful projects.
+- Contributing to meaningful open-source projects.
+- Collaborating with other developers.
 - Building tools that solve real problems.
-
-Always open to learning, collaboration and contributing to the developer ecosystem.
 
 ---
 
@@ -120,13 +124,13 @@ Always open to learning, collaboration and contributing to the developer ecosyst
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ifehdelight&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ifehdelight&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifehdelight&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ifehdelight&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=ifehdelight&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
 
 </div>
 
@@ -134,24 +138,28 @@ Always open to learning, collaboration and contributing to the developer ecosyst
 
 <div align="center">
 
-### Let's Connect
+## Let's Connect
 
-Interested in software engineering, AI, open source or building interesting things?
+Interested in software engineering, artificial intelligence, open source or building interesting things?
 
-Feel free to connect.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifehdelight)
-
-[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelifeh28@gmail.com)
+I'm always open to meaningful conversations and collaborations.
 
 <br/>
+
+<a href="https://www.linkedin.com/in/ifehdelight">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:emmanuelifeh28@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 *"Understand deeply. Build thoughtfully. Keep learning."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
