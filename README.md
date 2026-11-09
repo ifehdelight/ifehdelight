@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=200&section=header&text=ifehdelight&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Exploring%20AI%20%26%20ML&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+software%2C+one+idea+at+a+time.;Understanding+computer+science.;Exploring+Artificial+Intelligence.;Always+learning.+Always+building." alt="Typing SVG"/>
-</a>
+<img src="./assets/ifehdelight-header.gif" width="100%" alt="ifehdelight - Software Engineering Student"/>
 
 <br/>
 
@@ -46,7 +42,7 @@ I'm particularly interested in understanding the engineering behind intelligent 
 
 ## Technologies & Tools
 
-**Languages**
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -55,32 +51,29 @@ I'm particularly interested in understanding the engineering behind intelligent 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Frameworks & Technologies**
+### Frameworks & Technologies
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-**Developer Tools**
+### Developer Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
 ## Currently Learning
 
-My learning journey is focused on strengthening my engineering foundations.
-
-| Area | Current Focus |
-|:---|:---|
+| Area | Focus |
+|---|---|
 | Python | Programming fundamentals and problem-solving |
 | Software Engineering | Computer science and application architecture |
-| AI & Machine Learning | Exploring the fundamentals |
+| AI & Machine Learning | Exploring the foundations |
 | Deep Learning | Long-term area of interest |
 | AI Infrastructure | Long-term area of interest |
 
@@ -90,19 +83,23 @@ My learning journey is focused on strengthening my engineering foundations.
 
 <div align="center">
 
-<a href="https://siteversity.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ifehdelight&repo=siteversity&theme=tokyonight&hide_border=true" alt="Siteversity Repository"/>
-</a>
-
-</div>
-
 ### Siteversity
 
-A content-focused blogging platform inspired by modern digital publications.
+**A content-focused blogging platform inspired by modern digital publications.**
 
 Built around the idea of making quality content accessible through a clean, modern reading experience.
 
-**[Explore Siteversity →](https://siteversity.vercel.app)**
+<br/>
+
+<a href="https://siteversity.vercel.app">
+<img src="https://img.shields.io/badge/Visit%20Siteversity-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ifehdelight/siteversity">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -120,17 +117,15 @@ I'm interested in:
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ifehdelight&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ifehdelight&theme=tokyonight&hide_border=true)](https://github.com/ifehdelight)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifehdelight&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ifehdelight&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
+[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ifehdelight?tab=repositories)
 
 </div>
 
@@ -147,19 +142,15 @@ I'm always open to meaningful conversations and collaborations.
 <br/>
 
 <a href="https://www.linkedin.com/in/ifehdelight">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:emmanuelifeh28@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 *"Understand deeply. Build thoughtfully. Keep learning."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
